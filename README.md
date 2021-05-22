@@ -11,7 +11,7 @@ The goal of this project is to calculate the mathematical risk process model bas
 After obtaining this model, simulations will be conducted for different time horizons, to estimate the probability of ruin. This probability indicates the chances of 
 the insurance company reaching bankruptcy. 
 
-All the necessary theory used in the process is described in the notebook file.
+All the necessary theory used in the process, and the detailed instruction for the calculations, is described in the notebook file.
 
 ## Technologies
 
